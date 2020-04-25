@@ -29,6 +29,7 @@
 		font-size: 1em;
 		/* PADDING NAV */
 		padding: 1.5em 0em 0.5em 0em;
+		/* height: 100%; */
 	}
 
 	body {
@@ -3124,15 +3125,16 @@
 
 	#footer .inner {
 		/* border-top: 1px solid #434f5b; */
-		padding-top: 1em;
+		/* padding-top: 1em; */
 		margin-left: 1em;
+		height: -1em;
 	}
 
 	#footer .copyright {
 		color: #bbb;
 		font-size: 0.6em;
 		margin: 0 0 2em 0;
-		padding: 0;
+		/* padding: 0; */
 	}
 
 		#footer .copyright a {
@@ -3183,12 +3185,14 @@
 
 
 .schedule{
-	margin-left: 50%;
+	/* margin-left: 56%; */
+	padding: 4% 0 0 30%;
 	margin-top: 2%;
+	position: relative;
 }
 
 .schedule table{
-	margin-top: 18%
+	margin-top: 25%
 }
 .scheduleTable tr td{
 	background: #FFF;
@@ -3241,6 +3245,7 @@
 
 #three{
 	text-align: center !important;
+	height: 1em !important;
 }
 
 .socialMedia li{
