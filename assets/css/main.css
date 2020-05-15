@@ -2904,7 +2904,9 @@
 
 
 		header .logopic img{
-			top: -3%;
+
+			/* responsive mobile logopic (-10) */
+			top: -10%;
 			left: 7%;
 			bottom: 15%;
 			position: relative;
@@ -3206,12 +3208,12 @@
 .schedule{
 	/* margin-left: 56%; */
 	padding: 4% 0 0 3%;
-	margin-top: 0%;
+	margin-top: 2%;
 	position: relative;
 }
 
 .schedule table{
-	margin-top: 11%
+	margin-top: 25%
 }
 .scheduleTable tr td{
 	background: #FFF;
