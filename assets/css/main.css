@@ -3206,12 +3206,12 @@
 .schedule{
 	/* margin-left: 56%; */
 	padding: 4% 0 0 3%;
-	margin-top: 2%;
+	margin-top: 0%;
 	position: relative;
 }
 
 .schedule table{
-	margin-top: 25%
+	margin-top: 11%
 }
 .scheduleTable tr td{
 	background: #FFF;
