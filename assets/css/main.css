@@ -2902,6 +2902,25 @@
 			min-width: 320px;
 		}
 
+
+		header .logopic img{
+			top: -3%;
+			left: 7%;
+			bottom: 15%;
+			position: relative;
+
+			max-width: 100%;
+			height: 50%;
+			float: left;
+			/* MARGIN LOGO */
+			/* margin-left: 13em; */
+			/* padding-bottom: 1em;
+			padding-left: 1em; */
+
+
+			
+		}
+
 	}
 
 /* Nav */
@@ -3186,7 +3205,7 @@
 
 .schedule{
 	/* margin-left: 56%; */
-	padding: 4% 0 0 30%;
+	padding: 4% 0 0 3%;
 	margin-top: 2%;
 	position: relative;
 }
